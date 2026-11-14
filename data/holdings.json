@@ -1,0 +1,42 @@
+{
+    "Hamlet": {
+        "copies": 9,
+        "borrowed": 4
+    },
+    "1984": {
+        "copies": 8,
+        "borrowed": 1
+    },
+    "The Little Prince": {
+        "copies": 8,
+        "borrowed": 0
+    },
+    "Brave New World": {
+        "copies": 2,
+        "borrowed": 1
+    },
+    "Dune": {
+        "copies": 5,
+        "borrowed": 0
+    },
+    "Frankenstein": {
+        "copies": 1,
+        "borrowed": 1
+    },
+    "Pride and Prejudice": {
+        "copies": 4,
+        "borrowed": 1
+    },
+    "The Hobbit": {
+        "copies": 5,
+        "borrowed": 0
+    },
+    "Dracula": {
+        "copies": 2,
+        "borrowed": 2
+    },
+    "Animal Farm": {
+        "copies": 3,
+        "borrowed": 0
+    }
+}

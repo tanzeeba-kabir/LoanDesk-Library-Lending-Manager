@@ -1,0 +1,7 @@
+ADD Hamlet 2
+RETURN "Brave New World" 1
+ADD Dune 1
+ADD 1984 1
+RETURN Hamlet 5
+ADD "The Little Prince" 2
+DROP 1984 1
